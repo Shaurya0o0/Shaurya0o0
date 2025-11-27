@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shaurya Prasad</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaury0o0&label=Profile%20views&color=0e75b6&style=flat" alt="shaury0o0" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaury0o0" alt="shaury0o0" /></a> </p>
+
 - 🔭 I’m currently working on [Chat-App](https://chat-app-two-puce-26.vercel.app/)
 
 - 🌱 I’m currently learning **DSA in C++**
@@ -15,8 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/shaurya-prasad-a28765293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya-prasad-a28765293" height="30" width="40" /></a>
 <a href="https://instagram.com/shaurya_027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaurya_027" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaurya0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaurya0" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shauryapc1t5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shauryapc1t5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
